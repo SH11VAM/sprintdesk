@@ -91,9 +91,9 @@ cp .env.example .env
 Default variables in `.env`:
 ```env
 VITE_APP_NAME=SprintDesk
-VITE_AUTH_API_URL=https://dummyjson.com
-VITE_DATA_API_URL=https://jsonplaceholder.typicode.com
-VITE_NOTIFICATION_POLL_INTERVAL_MS=30000
+VITE_AUTH_API_URL=
+VITE_DATA_API_URL=
+VITE_NOTIFICATION_POLL_INTERVAL_MS=
 ```
 
 ### Development Server
